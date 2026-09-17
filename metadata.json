@@ -1,0 +1,7 @@
+{
+  "name": "TeamBuilders",
+  "description": "Android-first collaboration platform for students and professionals to discover compatible teammates, form teams, build projects, and compete in hackathons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
